@@ -1,17 +1,9 @@
-{
-    name: "camod",
-    repo: "Chaoticans-mindustry-modding-team/ca-mod",
-    minGameVersion: 143,
-    version: "135",
-    
-    displayName: "ca-mod",
-    author: "The chaoticans",
-    subtitle:"May contain Egg",
-    description:
-'''
-Mod for mindustry server                 
-'''
-    hideBrowser: false,
-    hidden: true,
-    dependencies: []
-}
+name: camod
+displayName: "CA-Mod"
+author: "Chaoticans"
+subtitle: "Contains retardation for retards"
+description: "Mod for RP purposes."
+minGameVersion: "143"
+version: "69420"
+hideBrowser: false
+hidden: true
