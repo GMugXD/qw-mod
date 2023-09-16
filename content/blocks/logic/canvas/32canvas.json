@@ -1,9 +1,9 @@
 {    
     "type": "CanvasBlock",
-    "name": "8canvas",
+    "name": "32Canvas",
     "health": 600,
     "size": 1,
-    "canvasSize": 8,
+    "canvasSize": 32,
     "alwaysUnlocked": true,
     "requirements": [
      "beryllium/10",
