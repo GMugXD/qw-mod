@@ -4,12 +4,13 @@
     minGameVersion: 143,
     version: "135",
     
-    displayName: "ca-mod",
-    author: "The chaoticans",
-    subtitle:"May contain Egg",
+    displayName: "CA-Mod",
+    author: "The Chaoticans",
+    subtitle:"May contain egg & retardation
+",
     description:
 '''
-Mod for mindustry server                 
+Mod with features for RPs.                 
 '''
     hideBrowser: false,
     hidden: true,
