@@ -1,8 +1,8 @@
 {    
     "type": "CanvasBlock",
-    "name": "8Canvas",
+    "name": "Micro 8Canvas",
     "health": 600,
-    "size": 2,
+    "size": 1,
     "canvasSize": 8,
     "alwaysUnlocked": true,
     "requirements": [

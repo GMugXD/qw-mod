@@ -1,14 +1,16 @@
 {    
-    "type": "Wall",
-    "name": "True Shade",
+    "type": "LightBlock",
+    "name": "True Light",
     "health": 600,
     "size": 1,
+    "brightness": 100,
+    "radius": 10,
     "alwaysUnlocked": true,
     "requirements": [
      "camod-spectral/1",
-        "camod-black/1"
+        "camod-white/1"
     ],
-    "category": "effect",
+    "category": "defense",
     "research": {
     
     }

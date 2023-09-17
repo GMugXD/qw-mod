@@ -1,18 +1,17 @@
 {    
     "type": "LogicBlock",
     "name": "Ultra Processor",
-    "health": 600,
-    "size": 1,
-    "range": 1000,
-    "instructionsPerTick": 500,
+    "health": 750,
+    "size": 4,
+    "instructionsPerTick": 100,
+    "range": 600,
     "alwaysUnlocked": true,
     "requirements": [
-     "copper/90",
-        "lead/50",
-        "silicon/50",
-        "titanium/50",
-        "phase-fabric/25",
-        "surge-alloy/25"
+     "copper/400",
+     "lead/600",
+     "thorium/150",
+     "silicon/800",
+     "surge-alloy/70"
     ],
     "category": "logic",
     "research": {

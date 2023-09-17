@@ -1,9 +1,9 @@
 {    
     "type": "LogicDisplay",
-    "name": "Reality Projector Large",
+    "name": "Ultra Projector",
     "health": 100,
     "size": 1,
-    "displaySize": 224,
+    "displaySize": 320,
     "requirements": [
         "metaglass/50",
         "camod-green/25"
