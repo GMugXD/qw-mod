@@ -1,0 +1,16 @@
+{    
+    "type": "LogicDisplay",
+    "name": "Testdisplay",
+    "health": 300,
+    "size": 1,
+    "displaySize": 32,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "silicon/12",
+     "metaglass/12"
+    ],
+    "category": "logic",
+    "research": {
+    
+    }
+}
