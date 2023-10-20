@@ -1,6 +1,6 @@
 {    
-    "type": "LiquidRouter",
-    "name": "Borderless Liquid Block",
+    "type": "LiquidSource",
+    "name": "Borderless Liquid Source",
     "health": 600,
     "size": 1,
     "alwaysUnlocked": true,

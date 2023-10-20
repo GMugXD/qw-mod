@@ -1,7 +1,7 @@
 {
 	"type": "itemTurret",
 	"health": 1000,
-	"name": "Wake-up",
+	"name": "Notifier",
 	"alwaysUnlocked": true,
     "shake": 2,
 	"top": true,

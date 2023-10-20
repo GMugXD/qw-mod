@@ -1,14 +1,14 @@
 {    
     "type": "Unloader",
-    "name": "Colossal Unloader",
+    "name": "Large Unloader",
     "health": 600,
-    "size": 3,
+    "size": 2,
     "alwaysUnlocked": true,
     "requirements": [
-     "titanium/50",
-        "silicon/60"
+     "titanium/35",
+        "silicon/40"
     ],
-    "category": "effect",
+    "category": "distribution",
     "research": {
     
     }
