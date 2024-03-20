@@ -3,7 +3,7 @@
     "name": "Borderless Display",
     "health": 400,
     "size": 3,
-    "displaySize": 92,
+    "displaySize": 96,
     "alwaysUnlocked": true,
     "requirements": [
      "silicon/50",
