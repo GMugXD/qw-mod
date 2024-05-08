@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Wooden ",
+    "name": "Wooden Slab",
     "health": 600,
     "size": 1,
     "rotate": true,

@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Dune ",
+    "name": "Dune Stair",
     "health": 600,
     "size": 1,
     "rotate": true,

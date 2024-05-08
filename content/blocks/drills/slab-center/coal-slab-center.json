@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Coal ",
+    "name": "Centered Coal Slab",
     "health": 600,
     "size": 1,
     "rotate": true,

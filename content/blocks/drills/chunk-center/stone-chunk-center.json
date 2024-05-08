@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Stone ",
+    "name": "Centered Stone Chunk",
     "health": 600,
     "size": 1,
     "rotate": true,

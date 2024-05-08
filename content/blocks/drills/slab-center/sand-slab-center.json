@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Sand ",
+    "name": "Centered Sand Slab",
     "health": 600,
     "size": 1,
     "rotate": true,

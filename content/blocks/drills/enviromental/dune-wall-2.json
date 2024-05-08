@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Dune Wall.",
+    "name": "Dune Wall",
     "health": 600,
     "size": 1,
     "variants": 2,

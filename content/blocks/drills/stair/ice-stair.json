@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Ice ",
+    "name": "Ice Stair",
     "health": 600,
     "size": 1,
     "rotate": true,

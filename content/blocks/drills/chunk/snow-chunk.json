@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Snow ",
+    "name": "Snow Chunk",
     "health": 600,
     "size": 1,
     "rotate": true,

@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Sand ",
+    "name": "Sand Stair",
     "health": 600,
     "size": 1,
     "rotate": true,

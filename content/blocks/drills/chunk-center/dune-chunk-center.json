@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Dune ",
+    "name": "Centered Dune Chunk",
     "health": 600,
     "size": 1,
     "rotate": true,

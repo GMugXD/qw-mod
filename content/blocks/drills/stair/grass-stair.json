@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Grass ",
+    "name": "Grass Stair",
     "health": 600,
     "size": 1,
     "rotate": true,

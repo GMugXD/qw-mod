@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Stone Wall.",
+    "name": "Stone Wall",
     "health": 600,
     "size": 1,
     "variants": 2,

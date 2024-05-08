@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Coal ",
+    "name": "Coal Stair",
     "health": 600,
     "size": 1,
     "rotate": true,

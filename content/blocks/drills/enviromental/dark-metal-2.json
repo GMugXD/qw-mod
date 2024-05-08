@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Dark Metal Wall.",
+    "name": "Dark Metal Wall",
     "health": 600,
     "size": 1,
     "variants": 2,

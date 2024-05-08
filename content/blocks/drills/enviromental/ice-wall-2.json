@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Ice Wall.",
+    "name": "Ice Wall",
     "health": 600,
     "size": 1,
     "variants": 2,

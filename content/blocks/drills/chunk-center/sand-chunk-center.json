@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Sand ",
+    "name": "Centered Sand Chunk",
     "health": 600,
     "size": 1,
     "rotate": true,

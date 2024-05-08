@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Ice ",
+    "name": "Ice Slab",
     "health": 600,
     "size": 1,
     "rotate": true,

@@ -1,6 +1,6 @@
 {    
     "type": "Wall",
-    "name": "Grass Wall.",
+    "name": "Grass Wall",
     "health": 600,
     "size": 1,
     "variants": 2,
